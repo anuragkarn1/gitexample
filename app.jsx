@@ -12,4 +12,5 @@ const useEffect = () => {
   axios.get("http://localhost:3000/notes");
   return <h1>AXIOS</h1>;
 };
+jkjhjlhu;
 export default App;
